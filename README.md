@@ -33,8 +33,8 @@ username: admin
 
 password:test123
 
-5. For a specific record ID, if you have authentication priviledges (after sucessfully login) you can update or delete the record(s), via the respective PUT and DELETE buttons.
+5. For a specific record ID (ex. `127.0.0.1/vcfs/rs123/`), if you have authentication priviledges (after sucessfully login) you can update or delete the record(s), via the respective PUT and DELETE buttons.
 
 * You have the option to run tests for the application via `python manage.py test`
 
-* All the above navigation can be test with curl or httpie requests using the rellated headers, authorization credetials etc.
+* All the above navigation actions can be test with curl or httpie requests using the related headers, authorization credetials etc.
