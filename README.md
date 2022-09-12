@@ -38,3 +38,5 @@ password:test123
 * You have the option to run tests for the application via `python manage.py test`
 
 * All the above navigation actions can be test with curl or httpie requests using the related headers, authorization credetials etc.
+
+**Attention: This implementation is only for development mode.
