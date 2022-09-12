@@ -1,4 +1,4 @@
-# Assignment api for vcf data manipulation
+# Assignment api for vcf data handler
 This is a simple API to allow users to navigate through the data of a vcf file, view. Only authorized users can create, edit and delete records in the system.
 
 # Quickstart
