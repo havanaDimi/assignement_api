@@ -1,7 +1,10 @@
-# Assignement api for vcf data manipulation
+# Assignment api for vcf data manipulation
 This is a simple API to allow users to navigate through the data of a vcf file, view. Only authorized users can create, edit and delete records in the system.
 
 # Quickstart
+
+Download this project on your local machine.
+
 `cd /replace_with_your_directory/assignement_api-master/`
 
 `python3 -m venv env`
