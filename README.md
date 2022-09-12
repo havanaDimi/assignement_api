@@ -3,17 +3,17 @@ This is a simple API to allow users to navigate through the data of a vcf file, 
 
 # Quickstart
 
-Download this project on your local machine.
+Download this project on your local machine. Recommended to run with python3.
 
-`cd /replace_with_your_directory/assignement_api-master/`
+`cd /replace_with_your_directory/assignement_api/` (where the manage.py file is located)
 
-`python3 -m venv env`
+`python -m venv env`
 
 `source env/bin/activate`  # On Windows use `env\Scripts\activate`
 
 `pip install -r requirements.txt`
 
-`python manage.py runserver` (# This command should run in the directory  that is the manage.py file)
+`python manage.py runserver` (# This command should run in the directory  that is located the manage.py file)
 
 # UI web browser navigation
 The service is up and running locally on `127.0.0.1:8000`. You have the option to view it in your web browser.
